@@ -1,0 +1,13 @@
+
+.h1-custom{
+    margin-top: 100px;
+    margin-bottom: 50px;
+    background-color: #e4e4e4;
+}
+.head{
+    font-weight: 800;
+}
+
+.note{
+    background-color: palevioletred;
+}
